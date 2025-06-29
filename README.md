@@ -498,6 +498,5 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 
 <div align="center">
-  <p>Feito com ❤️ usando .NET 8 e Clean Architecture</p>
   <p>⭐ Se este projeto te ajudou, considere dar uma estrela!</p>
 </div> 
