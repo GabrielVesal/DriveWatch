@@ -1,0 +1,10 @@
+﻿@API_HostAddress = https://localhost:44326
+
+@id=1
+GET {{API_HostAddress}}/api/vehicleaccess/{{id}}
+
+###
+
+GET {{API_HostAddress}}/api/vehicleaccess
+
+###
